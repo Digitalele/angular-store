@@ -1,6 +1,5 @@
 'use strict';
 
-
 angular.module('templateStore', [
   'ngRoute',
   'templateStore.templates'
